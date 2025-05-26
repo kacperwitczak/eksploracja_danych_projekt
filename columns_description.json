@@ -1,0 +1,257 @@
+{
+    "iid": {
+        "description": ""
+    },
+    "id": {
+        "description": ""
+    },
+    "gender": {
+        "description": ""
+    },
+    "idg": {
+        "description": ""
+    },
+    "condtn": {
+        "description": ""
+    },
+    "wave": {
+        "description": ""
+    },
+    "round": {
+        "description": ""
+    },
+    "position": {
+        "description": ""
+    },
+    "order": {
+        "description": ""
+    },
+    "partner": {
+        "description": ""
+    },
+    "pid": {
+        "description": ""
+    },
+    "match": {
+        "description": ""
+    },
+    "int_corr": {
+        "description": ""
+    },
+    "samerace": {
+        "description": ""
+    },
+    "age_o": {
+        "description": ""
+    },
+    "race_o": {
+        "description": ""
+    },
+    "pf_o_att": {
+        "description": ""
+    },
+    "pf_o_sin": {
+        "description": ""
+    },
+    "pf_o_int": {
+        "description": ""
+    },
+    "pf_o_fun": {
+        "description": ""
+    },
+    "pf_o_amb": {
+        "description": ""
+    },
+    "pf_o_sha": {
+        "description": ""
+    },
+    "dec_o": {
+        "description": ""
+    },
+    "attr_o": {
+        "description": ""
+    },
+    "sinc_o": {
+        "description": ""
+    },
+    "intel_o": {
+        "description": ""
+    },
+    "fun_o": {
+        "description": ""
+    },
+    "like_o": {
+        "description": ""
+    },
+    "prob_o": {
+        "description": ""
+    },
+    "met_o": {
+        "description": ""
+    },
+    "age": {
+        "description": ""
+    },
+    "field": {
+        "description": ""
+    },
+    "field_cd": {
+        "description": ""
+    },
+    "race": {
+        "description": ""
+    },
+    "imprace": {
+        "description": ""
+    },
+    "imprelig": {
+        "description": ""
+    },
+    "from": {
+        "description": ""
+    },
+    "goal": {
+        "description": ""
+    },
+    "date": {
+        "description": ""
+    },
+    "go_out": {
+        "description": ""
+    },
+    "career": {
+        "description": ""
+    },
+    "career_c": {
+        "description": ""
+    },
+    "sports": {
+        "description": ""
+    },
+    "tvsports": {
+        "description": ""
+    },
+    "exercise": {
+        "description": ""
+    },
+    "dining": {
+        "description": ""
+    },
+    "museums": {
+        "description": ""
+    },
+    "art": {
+        "description": ""
+    },
+    "hiking": {
+        "description": ""
+    },
+    "gaming": {
+        "description": ""
+    },
+    "clubbing": {
+        "description": ""
+    },
+    "reading": {
+        "description": ""
+    },
+    "tv": {
+        "description": ""
+    },
+    "theater": {
+        "description": ""
+    },
+    "movies": {
+        "description": ""
+    },
+    "concerts": {
+        "description": ""
+    },
+    "music": {
+        "description": ""
+    },
+    "shopping": {
+        "description": ""
+    },
+    "yoga": {
+        "description": ""
+    },
+    "exphappy": {
+        "description": ""
+    },
+    "attr1_1": {
+        "description": ""
+    },
+    "sinc1_1": {
+        "description": ""
+    },
+    "intel1_1": {
+        "description": ""
+    },
+    "fun1_1": {
+        "description": ""
+    },
+    "amb1_1": {
+        "description": ""
+    },
+    "shar1_1": {
+        "description": ""
+    },
+    "attr2_1": {
+        "description": ""
+    },
+    "sinc2_1": {
+        "description": ""
+    },
+    "intel2_1": {
+        "description": ""
+    },
+    "fun2_1": {
+        "description": ""
+    },
+    "amb2_1": {
+        "description": ""
+    },
+    "shar2_1": {
+        "description": ""
+    },
+    "attr3_1": {
+        "description": ""
+    },
+    "sinc3_1": {
+        "description": ""
+    },
+    "fun3_1": {
+        "description": ""
+    },
+    "intel3_1": {
+        "description": ""
+    },
+    "amb3_1": {
+        "description": ""
+    },
+    "dec": {
+        "description": ""
+    },
+    "attr": {
+        "description": ""
+    },
+    "sinc": {
+        "description": ""
+    },
+    "intel": {
+        "description": ""
+    },
+    "fun": {
+        "description": ""
+    },
+    "like": {
+        "description": ""
+    },
+    "prob": {
+        "description": ""
+    },
+    "met": {
+        "description": ""
+    }
+}
